@@ -24,6 +24,10 @@
 
 
 
+##### Mooc: Stanford-CS231n
+
+
+
 ## Tools
 
 * Numpy
